@@ -11,3 +11,6 @@ Getting in touch:
  * Email: nagakamira@gmail.com
  * Twitter: theprotonesso
  * Discord: Exa Nori#0600
+
+### Stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=protonesso)](https://github.com/anuraghazra/github-readme-stats)
