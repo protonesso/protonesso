@@ -14,3 +14,4 @@ Getting in touch:
 
 ### Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=protonesso)](https://github.com/anuraghazra/github-readme-stats)
+[![muh](https://github-readme-stats.vercel.app/api/top-langs/?username=protonesso&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
