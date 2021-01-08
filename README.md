@@ -10,7 +10,7 @@ I'm a developer of @ataraxialinux - an ultra-lightweight portable distro focused
 Getting in touch:
  * Email: nagakamira@gmail.com
  * Twitter: theprotonesso
- * Discord: nuinuinui#8414
+ * Discord: Exa Nori#8414
 
 ### Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=protonesso)](https://github.com/anuraghazra/github-readme-stats)
