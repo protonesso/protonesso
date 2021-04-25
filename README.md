@@ -6,12 +6,12 @@ I'm a developer of @ataraxialinux - an ultra-lightweight portable distro focused
  * Main languages: C, C++, Bash, Python and some assembly (x86 and SPARC)
  * Currently learning: Haskell and Rust
  * Working on: Ataraxia Linux and usagi (new package manager)
- * Pronouns: she/her
+ * Pronouns: she/they
 
 Getting in touch:
  * Email: nagakamira@gmail.com
  * Twitter: theprotonesso
- * Discord: Exa Nori#8414
+ * Discord: suomalainen vodka#8414
 
 ### Stats
 [![github stats](https://github-readme-stats.vercel.app/api?username=protonesso)](https://github.com/anuraghazra/github-readme-stats)
